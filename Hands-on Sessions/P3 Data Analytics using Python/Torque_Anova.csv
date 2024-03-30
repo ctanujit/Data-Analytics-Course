@@ -1,0 +1,13 @@
+Spring_Thickness,Spring_Height,Torque
+Low,Low,1.8
+Low,High,2.3
+Medium,Low,2.7
+Medium,High,3.1
+High,Low,3.5
+High,High,4
+Low,Low,2.1
+Low,High,2.6
+Medium,Low,2.9
+Medium,High,3.3
+High,Low,3.8
+High,High,4.2
