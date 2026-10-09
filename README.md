@@ -1,6 +1,6 @@
 # Data Analytics using R and Python
 
-![Poster](https://github.com/ctanujit/Data-Analytics-Course/blob/main/DA_Banner.png)
+![Poster](https://github.com/ctanujit/Data-Analytics-Course/blob/main/DA_Poster.png)
 
 Course Name: Data Analytics (3-Credit Course) 
 
