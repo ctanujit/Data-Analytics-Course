@@ -1,5 +1,7 @@
 # Data Analytics using R and Python
 
+![Poster](https://github.com/ctanujit/Data-Analytics-Course/blob/main/DA_Poster.png)
+
 Course Name: Data Analytics (3-Credit Course) 
 
 Participants: MBA (IB) 2020-22 Batch, Indian Institute of Foreign Trade (IIFT), India.
