@@ -46,3 +46,13 @@ Course Ratings: 4.3 out of 5.0
 
 [6] Hyndman, R. J., & Athanasopoulos, G. (2021). Forecasting: principles and practice. OTexts. (Read online: https://otexts.com/fpp3/)
 
+**Interesting Data Science Papers For Reading (Surveys / Critical Analysis):**
+
+I recommend that all participants review these research papers (mostly non-mathematical) alongside the course. Please click on the paper name to view these outstanding and interesting papers: 
+​
+1. Statistics - What are the most important statistical ideas of the past 50 years?: https://arxiv.org/abs/2012.00174 
+2. Data Science - 50 Years of Data Science​: https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf
+3. Time Series Forecasting - Statistical and Machine Learning forecasting methods: Concerns and ways forward: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889](https://doi.org/10.1371/journal.pone.0194889)
+4. Machine Learning - How to avoid machine learning pitfalls: a guide for academic researchers: https://arxiv.org/abs/2108.02497 
+5. Deep Learning - Tabular Data: Deep Learning is Not All You Need: https://arxiv.org/abs/2106.03253
+
