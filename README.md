@@ -16,9 +16,23 @@ Email: ctanujit@gmail.com
 
 Course Ratings: 4.3 out of 5.0
 
-Disclaimer: These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, IITKGP, and ISI, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+**Course Introduction:** This course is designed to equip business students with the capabilities to extract implicit, previously unknown, and potentially useful knowledge from real-world data sets. It provides practical training that enables immediate and effective participation in data analytics projects. The course introduces data science to address business challenges using business data. The course provides grounding in basic and advanced analytic methods (both Statistical and Machine Learning techniques) and introduces big data analytics technology and tools. 
 
-Main References:
+**Course Objectives:** The participants will acquire the knowledge required for
+​
+1. Extracting insights through data summarization, aggregation, and visualization methods.
+2. Pre-processing the data for analytics and Decision-making using statistical methodologies.
+3. Case studies and business domain-specific applications of statistical and data analytics tools.
+4. Developing models using statistical and machine learning techniques.
+5. Generating actionable insights using unsupervised learning techniques.
+6. Hands-on experience with the use of open-source software like R and Python.
+
+**Evaluation Components:** The evaluation components for the Data Analytics (DA) course will be as follows: 
+1) Quiz - 20%;  2) Mid-Term - 30% ;  3) Class participation - 10%;  4) End Term Test - 40%.
+
+**Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, IITKGP, and ISI, with some additions by the author. Below is a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+
+**Main References:**
 
 [1] James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning, Springer. (Read the Free Online Copy from here (Second Edition): https://www.statlearning.com/)
 
@@ -29,3 +43,6 @@ Main References:
 [4] Raschka, Sebastian, and Vahid Mirjalili. Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing Ltd, 2019.
 
 [5] StatQuest: https://www.youtube.com/@statquest 
+
+[6] Hyndman, R. J., & Athanasopoulos, G. (2021). Forecasting: principles and practice. OTexts. (Read online: https://otexts.com/fpp3/)
+
