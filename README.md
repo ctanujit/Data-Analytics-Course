@@ -1,10 +1,12 @@
 # Data Analytics using R and Python
 
-Course Name: Data Analytics
+Course Name: Data Analytics (3-Credit Course) 
 
 Participants: MBA (IB) 2020-22 Batch, Indian Institute of Foreign Trade (IIFT), India.
 
 Faculty Name: Dr. Tanujit Chakraborty 
+
+Total Number of Students Registered: 191
 
 Timeline: July 2021 to September 2021   |  Sessions: 20 Sessions 
 
