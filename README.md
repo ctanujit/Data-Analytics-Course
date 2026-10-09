@@ -14,7 +14,7 @@ Timeline: July 2021 to September 2021   |  Sessions: 20 Sessions
 
 Email: ctanujit@gmail.com
 
-Course Webpage: [https://www.ctanujit.org/si.html](https://www.ctanujit.org/da.html)
+Course Ratings: 4.3 out of 5.0
 
 Disclaimer: These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, IITKGP, and ISI, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
 
